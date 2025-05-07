@@ -1,0 +1,17 @@
+{
+    "name": "princ/task",
+    "description": "My project",
+    "version": "1.0.0",
+    "autoload": {
+        "psr-4": {
+            "Princ\\Task\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Priyanshu Mahato",
+            "email": "princemahato28@gmail.com"
+        }
+    ],
+    "require": {}
+}
